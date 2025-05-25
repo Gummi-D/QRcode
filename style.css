@@ -1,0 +1,39 @@
+body {
+    background-color: #D5E1EF;
+    justify-items: center;
+
+}
+
+.whitebox {
+    margin-top: 10%;
+    background-color: #FFFFFF;
+    max-height: 499px;
+    max-width: 320px;
+    justify-items: center;
+    border-radius: 20px;
+    padding: 16px 0px 40px 0px;
+}
+
+.qr{
+    width: 288px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-weight: bold;
+    color: #1F314F;
+    justify-items: center;
+    text-align: center;
+    font-size: 22px;
+    line-height: 120%;
+    margin: 24px 32px 16px 32px;
+}
+
+p {
+    font-size: 15px;
+    color: #68778d;
+    text-align: center;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    margin: 0px 32px 0px 32px;
+}
